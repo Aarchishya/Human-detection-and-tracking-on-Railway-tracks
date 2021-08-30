@@ -6,4 +6,4 @@ The motivation behind the project is the large number of collisions that occur b
 This method will be also cost-effective as it doesn’t require any significant change in the train’s infrastructure as well as will reduce the financial burden of railways in terms of accidental compensations. 
 
 # About the Code
-The Whole code was developed in MATLAB.
+The whole code was developed in MATLAB and can be executed in any platform such as MATLAB or Octave.
